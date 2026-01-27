@@ -9,7 +9,7 @@ You can access ToonPool Via the **following links**:
 
 - [Web Github](https://github.com/SaffiTheProto/ToonPool/tree/pages)
 
-- [Website Link](https://saffitheproto.github.io/ToonPool/)
+- [Website Link](https://watch.toonpool.xyz/)
 
 - [Client Github](https://github.com/SaffiTheProto/ToonPool/tree/Client)
 
