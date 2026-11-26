@@ -1,3 +1,4 @@
-# <img width="414" height="67" alt="TPWeb_logo_site" src="https://github.com/user-attachments/assets/4268b42f-17db-4c15-ba65-cd9716a636c5" />
+<img width="1100" height="394" alt="sitelogo" src="https://github.com/user-attachments/assets/e05a49c3-683e-470e-9b7e-f7fa1b32ba07" />
+
 ### The web version of ToonPool, for use on anything that can run JS and HTML
 [Go to ToonPool](https://watchtoonpool.com)
