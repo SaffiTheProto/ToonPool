@@ -1,4 +1,4 @@
-<img width="1100" height="394" alt="sitelogo" src="https://github.com/user-attachments/assets/e05a49c3-683e-470e-9b7e-f7fa1b32ba07" />
+<img width="1400" height="501" alt="muh" src="https://github.com/user-attachments/assets/8c230bd5-f9f9-4625-9ea3-c6daa3f9f1a6" />
 
 ### The web version of ToonPool, for use on anything that can run JS and HTML
 [Go to ToonPool](https://watchtoonpool.com)
