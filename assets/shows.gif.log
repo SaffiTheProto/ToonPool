@@ -1,0 +1,11 @@
+Started render process: /app/bin/melt -loglevel error -progress2 %2Fvar%2Ftmp%2Fkdenlive-cuMxaF-1.mlt
+Gtk-Message: 20:23:15.987: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 20:23:15.988: Failed to load module "window-decorations-gtk-module"
+Call to org.freedesktop.portal.Settings.ReadAll failed QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop")
+Qt: Session management error: Could not open network socket
+[pad @ 0x764ae0695e40] Padded dimensions cannot be smaller than input dimensions.
+[pad @ 0x764ae0695e40] Failed to configure input pad on pad
+[filter avfilter.fieldorder] Cannot configure the filter graph
+[gif @ 0x764adc200d00] gif muxer supports only codec gif for type video [consumer avformat] Could not write header '/home/saffi/Documents/toonpool/ToonPool/assets/shows.gif'
+
+Rendering of /home/saffi/Documents/toonpool/ToonPool/assets/shows.gif aborted, resulting video will probably be corrupted.
